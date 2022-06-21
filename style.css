@@ -1,0 +1,19 @@
+.card {
+    width: 600px;
+    height: 340px;
+    background-image: url("./night-city-background-with-many-building-tall-vector-30502030.jpg");
+    background-size: cover;
+    border-radius: 40px;
+    color: beige;
+    padding-top: 120px;
+    box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+}
+.card-company {
+    text-align: center;
+    margin: 0;
+}
+.card-name {
+    text-align: center;
+    margin: 0;
+}
